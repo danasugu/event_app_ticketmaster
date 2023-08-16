@@ -1,6 +1,6 @@
 # event_app_ticketmaster
 
-A new Flutter project.
+#  A challenge Flutter project
 
 ## Getting Started
 
